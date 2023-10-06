@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/teal_200"></solid>
+    <corners android:radius="25dp"></corners>
+</shape>
+
+
+<!--Drawable -> drawable resource file -> type name of file (for ex.button_design) -> ok-->
+<!--file well create -> change selector to shape -> design the shape-->
+<!-- -> apply design to button or etc using android:background="@drawable/file name"-->
